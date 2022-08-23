@@ -1,0 +1,12 @@
+[submodule "CR"]
+	path = CR
+	url = https://github.com/NORGREN-AUTOMATION/CR.git
+	branch = main
+[submodule "CS"]
+	path = CS
+	url = https://github.com/NORGREN-AUTOMATION/CS.git
+	branch = main
+[submodule "P"]
+	path = P
+	url = https://github.com/NORGREN-AUTOMATION/P.git
+	branch = main
