@@ -1,2 +1,2 @@
 # IMS
-An Enterprise Solution @NORGREN-AUTOMATION - index repository of Products, Solutions, and Resources
+An Enterprise Solution - index repository of Products, Solutions, and Resources
