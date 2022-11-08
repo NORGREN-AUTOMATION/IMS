@@ -1,0 +1,340 @@
+{
+  "Path2GitBin": "C:\\Program Files\\Git\\bin\\git.exe",
+  "Path2DoxygenBin": "C:\\Program Files\\doxygen\\bin\\doxygen.exe",
+  "Path2GraphVizDotBin": "C:\\Program Files\\Graphviz\\bin\\dot.exe",
+  "Path2RootRepository": "C:\\IMI",
+  "Repositories": [
+    {
+      "name": "IMI",
+      "pushurl": "https://github.com/NORGREN-AUTOMATION/IMS.git",
+      "fetchurl": "https://github.com/NORGREN-AUTOMATION/IMS.git",
+      "submodnames": [
+        "CR",
+        "CS",
+        "P"
+      ],
+      "submodbranches": null,
+      "branchnames": null,
+      "activebranch": null
+    },
+    {
+      "name": "CR",
+      "pushurl": "https://github.com/NORGREN-AUTOMATION/CR.git",
+      "fetchurl": "https://github.com/NORGREN-AUTOMATION/CR.git",
+      "submodnames": [
+        "Lib_GripperAPI",
+        "Lib_GripperAPI_Tests",
+        "Lib_GripperFW",
+        "Lib_GripperFW_Tests",
+        "ccNOos",
+        "ccNOos_Tests",
+        "ccOS",
+        "ccOS_Tests",
+        "dotNET"
+      ],
+      "submodbranches": null,
+      "branchnames": [
+        "main"
+      ],
+      "activebranch": null
+    },
+    {
+      "name": "Lib_GripperAPI",
+      "pushurl": "https://github.com/NORGREN-AUTOMATION/Lib_GripperAPI.git",
+      "fetchurl": "https://github.com/NORGREN-AUTOMATION/Lib_GripperAPI.git",
+      "submodnames": null,
+      "submodbranches": null,
+      "branchnames": [
+        "main"
+      ],
+      "activebranch": null
+    },
+    {
+      "name": "Lib_GripperAPI_Tests",
+      "pushurl": "https://github.com/NORGREN-AUTOMATION/Lib_GripperAPI_Tests.git",
+      "fetchurl": "https://github.com/NORGREN-AUTOMATION/Lib_GripperAPI_Tests.git",
+      "submodnames": [
+        "Lib_GripperAPI",
+        "Lib_GripperFW",
+        "Ubuntu",
+        "ccNOos",
+        "ccOS"
+      ],
+      "submodbranches": null,
+      "branchnames": [
+        "main"
+      ],
+      "activebranch": null
+    },
+    {
+      "name": "Lib_GripperFW",
+      "pushurl": "https://github.com/NORGREN-AUTOMATION/Lib_GripperFW.git",
+      "fetchurl": "https://github.com/NORGREN-AUTOMATION/Lib_GripperFW.git",
+      "submodnames": null,
+      "submodbranches": null,
+      "branchnames": [
+        "main"
+      ],
+      "activebranch": null
+    },
+    {
+      "name": "Ubuntu",
+      "pushurl": "https://github.com/InMechaSol/Ubuntu.git",
+      "fetchurl": "https://github.com/InMechaSol/Ubuntu.git",
+      "submodnames": null,
+      "submodbranches": null,
+      "branchnames": [
+        "ccGripper",
+        "main"
+      ],
+      "activebranch": null
+    },
+    {
+      "name": "ccNOos",
+      "pushurl": "https://github.com/InMechaSol/ccNOos.git",
+      "fetchurl": "https://github.com/InMechaSol/ccNOos.git",
+      "submodnames": null,
+      "submodbranches": null,
+      "branchnames": [
+        "main"
+      ],
+      "activebranch": null
+    },
+    {
+      "name": "ccOS",
+      "pushurl": "https://github.com/InMechaSol/ccOS.git",
+      "fetchurl": "https://github.com/InMechaSol/ccOS.git",
+      "submodnames": null,
+      "submodbranches": null,
+      "branchnames": [
+        "main"
+      ],
+      "activebranch": null
+    },
+    {
+      "name": "Lib_GripperFW_Tests",
+      "pushurl": "https://github.com/NORGREN-AUTOMATION/Lib_GripperFW_Tests.git",
+      "fetchurl": "https://github.com/NORGREN-AUTOMATION/Lib_GripperFW_Tests.git",
+      "submodnames": [
+        "Lib_GripperFW",
+        "Teensy",
+        "WIN32",
+        "ccNOos",
+        "ccOS"
+      ],
+      "submodbranches": null,
+      "branchnames": [
+        "main"
+      ],
+      "activebranch": null
+    },
+    {
+      "name": "Teensy",
+      "pushurl": "https://github.com/InMechaSol/Teensy.git",
+      "fetchurl": "https://github.com/InMechaSol/Teensy.git",
+      "submodnames": null,
+      "submodbranches": null,
+      "branchnames": [
+        "ccGripper",
+        "main"
+      ],
+      "activebranch": null
+    },
+    {
+      "name": "WIN32",
+      "pushurl": "https://github.com/InMechaSol/WIN32.git",
+      "fetchurl": "https://github.com/InMechaSol/WIN32.git",
+      "submodnames": null,
+      "submodbranches": null,
+      "branchnames": [
+        "ccGripper",
+        "main"
+      ],
+      "activebranch": null
+    },
+    {
+      "name": "ccNOos_Tests",
+      "pushurl": "https://github.com/InMechaSol/ccNOos_Tests.git",
+      "fetchurl": "https://github.com/InMechaSol/ccNOos_Tests.git",
+      "submodnames": [
+        "Teensy",
+        "WIN32",
+        "ccNOos",
+        "ccOS"
+      ],
+      "submodbranches": null,
+      "branchnames": [
+        "main"
+      ],
+      "activebranch": null
+    },
+    {
+      "name": "ccOS_Tests",
+      "pushurl": "https://github.com/InMechaSol/ccOS_Tests.git",
+      "fetchurl": "https://github.com/InMechaSol/ccOS_Tests.git",
+      "submodnames": null,
+      "submodbranches": null,
+      "branchnames": [
+        "main"
+      ],
+      "activebranch": null
+    },
+    {
+      "name": "dotNET",
+      "pushurl": "https://github.com/InMechaSol/dotNET.git",
+      "fetchurl": "https://github.com/InMechaSol/dotNET.git",
+      "submodnames": [
+        "DeployProject",
+        "IMS_Universe",
+        "ccLib_netCore"
+      ],
+      "submodbranches": null,
+      "branchnames": [
+        "main"
+      ],
+      "activebranch": null
+    },
+    {
+      "name": "DeployProject",
+      "pushurl": "https://github.com/InMechaSol/DeployProject.git",
+      "fetchurl": "https://github.com/InMechaSol/DeployProject.git",
+      "submodnames": null,
+      "submodbranches": null,
+      "branchnames": [
+        "main"
+      ],
+      "activebranch": null
+    },
+    {
+      "name": "IMS_Universe",
+      "pushurl": "https://github.com/InMechaSol/IMS_Universe.git",
+      "fetchurl": "https://github.com/InMechaSol/IMS_Universe.git",
+      "submodnames": null,
+      "submodbranches": null,
+      "branchnames": [
+        "main"
+      ],
+      "activebranch": null
+    },
+    {
+      "name": "ccLib_netCore",
+      "pushurl": "https://github.com/InMechaSol/ccLib_netCore.git",
+      "fetchurl": "https://github.com/InMechaSol/ccLib_netCore.git",
+      "submodnames": null,
+      "submodbranches": null,
+      "branchnames": [
+        "main"
+      ],
+      "activebranch": null
+    },
+    {
+      "name": "CS",
+      "pushurl": "https://github.com/NORGREN-AUTOMATION/CS.git",
+      "fetchurl": "https://github.com/NORGREN-AUTOMATION/CS.git",
+      "submodnames": [
+        "FW_Gripper_Teensy",
+        "SO_GripperAPI",
+        "SVC_GripperClient"
+      ],
+      "submodbranches": null,
+      "branchnames": [
+        "main"
+      ],
+      "activebranch": null
+    },
+    {
+      "name": "FW_Gripper_Teensy",
+      "pushurl": "https://github.com/NORGREN-AUTOMATION/FW_Gripper_Teensy.git",
+      "fetchurl": "https://github.com/NORGREN-AUTOMATION/FW_Gripper_Teensy.git",
+      "submodnames": [
+        "Lib_GripperFW",
+        "Teensy",
+        "ccNOos",
+        "ccOS"
+      ],
+      "submodbranches": null,
+      "branchnames": [
+        "main"
+      ],
+      "activebranch": null
+    },
+    {
+      "name": "SO_GripperAPI",
+      "pushurl": "https://github.com/NORGREN-AUTOMATION/SO_GripperAPI.git",
+      "fetchurl": "https://github.com/NORGREN-AUTOMATION/SO_GripperAPI.git",
+      "submodnames": [
+        "Lib_GripperAPI",
+        "Lib_GripperFW",
+        "Ubuntu",
+        "ccNOos",
+        "ccOS"
+      ],
+      "submodbranches": null,
+      "branchnames": [
+        "main"
+      ],
+      "activebranch": null
+    },
+    {
+      "name": "SVC_GripperClient",
+      "pushurl": "https://github.com/NORGREN-AUTOMATION/SVC_GripperClient.git",
+      "fetchurl": "https://github.com/NORGREN-AUTOMATION/SVC_GripperClient.git",
+      "submodnames": [
+        "Lib_GripperAPI",
+        "Lib_GripperFW",
+        "Ubuntu",
+        "ccNOos",
+        "ccOS"
+      ],
+      "submodbranches": null,
+      "branchnames": [
+        "main"
+      ],
+      "activebranch": null
+    },
+    {
+      "name": "P",
+      "pushurl": "https://github.com/NORGREN-AUTOMATION/P.git",
+      "fetchurl": "https://github.com/NORGREN-AUTOMATION/P.git",
+      "submodnames": [
+        "Controller_Gripper_Gamma",
+        "Controller_Gripper_S2"
+      ],
+      "submodbranches": null,
+      "branchnames": [
+        "main"
+      ],
+      "activebranch": null
+    },
+    {
+      "name": "Controller_Gripper_Gamma",
+      "pushurl": "https://github.com/NORGREN-AUTOMATION/Controller_Gripper_Gamma.git",
+      "fetchurl": "https://github.com/NORGREN-AUTOMATION/Controller_Gripper_Gamma.git",
+      "submodnames": [
+        "FW_Gripper_Teensy",
+        "SO_GripperAPI",
+        "SVC_GripperClient"
+      ],
+      "submodbranches": null,
+      "branchnames": [
+        "main"
+      ],
+      "activebranch": null
+    },
+    {
+      "name": "Controller_Gripper_S2",
+      "pushurl": "https://github.com/NORGREN-AUTOMATION/Controller_Gripper_S2.git",
+      "fetchurl": "https://github.com/NORGREN-AUTOMATION/Controller_Gripper_S2.git",
+      "submodnames": [
+        "FW_Gripper_Teensy",
+        "SO_GripperAPI",
+        "SVC_GripperClient"
+      ],
+      "submodbranches": null,
+      "branchnames": [
+        "main"
+      ],
+      "activebranch": null
+    }
+  ]
+}
